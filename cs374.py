@@ -1,3 +1,5 @@
+# Please refer to gopigo.ipynb for more up-to-date version
+
 import sys
 import keras
 from keras.models import Sequential
