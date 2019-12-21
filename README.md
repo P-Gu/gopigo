@@ -2,9 +2,9 @@
 GoPiGo self-driven car project 
 
 
-For this project, first run
+For this project, 
 
-1. datacollection.py
+1. first run: datacollection.py
   -this gives you data in the Data_sheet folder
   (Data_1, Data_2, Data_3, Data)
   
