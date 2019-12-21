@@ -17,3 +17,9 @@ For this project,
 4. Then we feed the result from inputCollect.py into the Main_Test_Car.py, which contains the model from model.py. Then, we make the prediction. We save the output as result.csv.
 
 5. Main_Test_Car.py reads in the result from the model and drives the car.
+
+6. We complete our model analysis in phython notebook (graphs) and save the result in gopigo.ipynb_2.json.
+
+7. easyCarMotorControl.py lets you drive GoPiGo around.
+
+
