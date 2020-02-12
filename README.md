@@ -18,7 +18,7 @@ For this project,
 
 5. Main_Test_Car.py reads in the result from the model and drives the car.
 
-6. We complete our model analysis in phython notebook (graphs) and save the result in gopigo.ipynb_2.json.
+6. We complete our model analysis in Jupyter Notebook (graphs) and save the result in gopigo.ipynb_2.json.
 
 7. easyCarMotorControl.py lets you drive GoPiGo around.
 
